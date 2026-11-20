@@ -1,1 +1,1 @@
-# Little Witch
+# Majo Studio
